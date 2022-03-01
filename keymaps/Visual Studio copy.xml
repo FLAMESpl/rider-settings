@@ -54,4 +54,5 @@
   </action>
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleStrikethroughAction" />
 </keymap>
