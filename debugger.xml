@@ -1,6 +1,7 @@
 <application>
   <component name="XDebuggerSettings">
     <data-views>
+      <option name="showLibraryStackFrames" value="false" />
       <option name="valueLookupDelay" value="150" />
     </data-views>
     <general />
@@ -17,6 +18,11 @@
               <option value="System.NullReferenceException" />
             </list>
           </option>
+        </configuration>
+      </debugger>
+      <debugger id="ObjectiveC">
+        <configuration>
+          <nt-symbol-settings />
         </configuration>
       </debugger>
       <debugger id="javascript">
