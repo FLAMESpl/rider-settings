@@ -8,6 +8,7 @@
       <mapping ext="restext" type="PLAIN_TEXT" />
       <removed_mapping ext="liquid" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="mgcb" approved="true" type="MonoGame Content Pipeline File" />
+      <removed_mapping pattern=".dockerignore" approved="true" type="DockerIgnore file" />
     </extensionMap>
   </component>
 </application>
