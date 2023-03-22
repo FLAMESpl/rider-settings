@@ -4,7 +4,7 @@
     <property name="created">2020-12-30T13:51:18</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2020.3.2.0.0</property>
-    <property name="modified">2023-03-21T15:05:58</property>
+    <property name="modified">2023-03-22T15:10:04</property>
     <property name="originalScheme">Visual Studio Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -35,7 +35,7 @@
     </option>
     <option name="ReSharper.ENUM_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="d2ec74" />
+        <option name="FOREGROUND" value="cfe78a" />
       </value>
     </option>
     <option name="ReSharper.STRUCT_IDENTIFIER">
